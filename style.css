@@ -1,0 +1,31 @@
+
+.left{
+    display: flex;
+    align-items: left;
+    justify-content:left;
+    text-align: justify;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    width: 300px;
+  }
+  .carousel-inner{
+    max-height:23rem;
+  }
+  .centrar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    width: 950px;
+  }
+  form{
+    text-align: center;
+    align-items: center;
+    width: 700px;
+    height: 630px;
+    border: 15px solid #3498DB;
+    border-radius: 10px;
+  }
